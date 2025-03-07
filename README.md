@@ -1,6 +1,6 @@
 ## Oii! Sou a Yasmin :)
 
-<p>Tenho 16 anos e estou cursando o ensino médio integrado com o técnico em informática.</p>
+<p>Tenho 17 anos e estou cursando o ensino médio integrado com o técnico em informática.</p>
 <p>Aprendendo sobre Python, HTML, CSS, JavaScript, PHP, Java e SQL.</p>
 <p>Buscando aprender mais a cada dia!</p>
 
