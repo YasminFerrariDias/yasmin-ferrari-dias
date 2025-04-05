@@ -29,8 +29,16 @@
   ##
 
 <div> 
-  <a href="https://www.instagram.com/itsyassfd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:yasminferraridias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmin-ferrari-dias-806250287/" target="_blank"><img src="https://imagensfree.com.br/icone-linkedin-azul-png/&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://codepen.io/Yasmin-Ferrari-Dias"><img src="https://www.iconfinder.com/icons/1298732/codepen_iconColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/itsyassfd" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 	
+  <a href="mailto:yasminferraridias@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yasmin-ferrari-dias-806250287/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://codepen.io/Yasmin-Ferrari-Dias" target="_blank">
+    <img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
 </div>
