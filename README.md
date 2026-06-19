@@ -2,7 +2,7 @@
 
 <p>Desenvolvedora Front-End com base sólida em back-end, formada em Técnico de Informática e estudante de Engenharia de Software na SATC.
 Além do código, tenho experiência com levantamento de requisitos, modelagem de banco de dados, diagramas, testes e integração com IA.
-Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expandindo o repertório.</p>
+Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expandindo o repertório. Também tenho olhar para design de interfaces e experiência com UI.</p>
 
 </br>
 
