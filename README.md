@@ -1,8 +1,8 @@
-## Olá, sou a Yasmin! 👋
+## Yasmin Ferrari Dias 👩‍💻
 
-<p>Técnica em Informática pelo CEDUP, estagiária Front-End e ingressando em Engenharia de Software na SATC.
-
-Aprendendo fora da sala de aula também — cursos, eventos e comunidades fazem parte da rotina.</p>
+<p>Desenvolvedora Front-End com base sólida em back-end, formada em Técnico de Informática e estudante de Engenharia de Software na SATC.
+Além do código, tenho experiência com levantamento de requisitos, modelagem de banco de dados, diagramas, testes e integração com IA.
+Já trabalhei com ferramentas como Delphi e Android Studio, e estou sempre expandindo o repertório.</p>
 
 </br>
 
@@ -36,8 +36,12 @@ Aprendendo fora da sala de aula também — cursos, eventos e comunidades fazem 
 
 <div style="display: inline-block">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
 </br>
